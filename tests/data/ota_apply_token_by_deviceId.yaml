@@ -1,0 +1,23 @@
+test_cases:
+# 0正例
+-  "macAddress": "testMacAddress"
+   "location": "ouzhou"
+   "otaUrl": "http://xxxx"
+
+##  1无usr_id  设备未绑定用户 10044
+#-  "macAddress": "SN00130eda013d4e8"
+#   "location": "ouzhou"
+#   "otaUrl": "http://xxxx"
+#
+##  2设备不存在 10043
+#-  "macAddress": "000000"
+#   "location": "ouzhou"
+#   "otaUrl": "http://xxxx"
+## 3
+#-  "macAddress": "testMacAddress"
+#
+##  4
+#-  "location": "ouzhou"
+#   "otaUrl": "http://xxxx"
+#
+

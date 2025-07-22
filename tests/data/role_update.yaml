@@ -1,0 +1,7 @@
+test_cases:
+# 1正例 t2v
+-  "deviceId": ${inter.context.get("device_id")}
+   "roleId": "123"
+   "expected_status_code": 0
+#-  "deviceId": "123"
+#   "roleId": "123"

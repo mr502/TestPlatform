@@ -1,0 +1,7 @@
+test_cases:
+# 正例
+-  "roleId": ${inter.context.get("device_id")}
+   "name": "9621"
+   "description": ""
+
+

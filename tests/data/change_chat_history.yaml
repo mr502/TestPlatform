@@ -1,0 +1,6 @@
+test_cases:
+# 正例
+-  "macAddress": "testMacAddress"
+   "sessionId": "xxx1111"
+   "chatType": 1
+   "content": "111111111"

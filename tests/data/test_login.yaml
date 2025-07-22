@@ -1,0 +1,21 @@
+test_cases:
+- email: skmengrui@163.com
+  password: '111111'
+  login_type: 1
+  expected_status_code: 0
+  actual_code: 0
+- email: skmengrui@163.com
+  password: '11111'
+  login_type: 1
+  expected_status_code: 10201
+  actual_code: 10201
+- email: skmengrui@163.com
+  password: '111111'
+  login_type: 2
+  expected_status_code: 10102
+  actual_code: 10102
+- email: wrong_email@163.com
+  password: '111111'
+  login_type: 1
+  expected_status_code: 10202
+  actual_code: 10202

@@ -1,0 +1,9 @@
+test_cases:
+# 正例
+-  "Device-Id": "SN0013c0630319dbb"
+-  "Device-Id": "SN0013c0630319d"
+-  "Device-Id": "SN0013c0630319pp"
+-  "Device-Id": ""
+-  "Device-Id": "000"
+-
+

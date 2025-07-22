@@ -1,0 +1,37 @@
+test_cases:
+#  SNxxx yyyyy
+# 位数  开头  数字  字母  特殊字符
+
+# 0 正确  17位且以SN开头 sn后面必须是3个数字
+-  "macAddress": "sn012345678910001"
+   "deviceType": "default"
+   "expected_status_code": 0
+
+# 1 错误  不以SN开头
+-  "macAddress": "01234567891000117"
+   "deviceType": "default"
+   "expected_status_code": 10048
+
+# 2 错误 以SN开头 但后面没有三位数字
+-  "macAddress": "SNabcdefghijklmn1"
+   "deviceType": "default"
+   "expected_status_code": 10048
+
+# 3 错误 以SN开头 有3位数字 但总共16位
+-  "macAddress": "SN00111111111111"
+   "deviceType": "999999999"
+   "expected_status_code": 10048
+
+# 4 错误 以SN开头 有3位数字 总共17位 但有特殊字符
+-  "macAddress": "sn999sndhg)(*&^%$"
+   "expected_status_code": 10048
+
+# 5 错误  缺少macAddress字段
+-   "deviceType": "00000"
+    "expected_status_code": 10048
+
+# 6 正确  缺少deviceType字段
+-  "macAddress": "sn987dierge876547"
+   "expected_status_code": 0
+
+

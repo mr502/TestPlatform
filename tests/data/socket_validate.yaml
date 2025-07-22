@@ -1,0 +1,13 @@
+test_cases:
+#   0 code = 0
+-  "macAddress": "testMacAddress"
+   "token": "f6d8e9d8-319e-4119-b876-352aefd9747f"
+#   1 code = 401？ token不匹配
+-  "macAddress": "testMacAddress"
+   "token": "1111111f02e5cd7-7703-47d7-ab7e-46b746401df5"
+#   2 code = 10043？ 设备不存在
+-  "macAddress": "12121212"
+   "token": "f02e5cd7-7703-47d7-ab7e-46b746401df5"
+#   3 code = 10044？ 未绑定用户
+-  "macAddress": "SN00130eda013d4e8"
+   "token": "1111111f02e5cd7-7703-47d7-ab7e-46b746401df5"

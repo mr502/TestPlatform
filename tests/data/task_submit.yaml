@@ -1,0 +1,58 @@
+test_cases:
+# 1正例 t2v
+-  "model_name": "yy-seaweed-241128"
+   "model_version": "111"
+   "task_type": "t2v"
+   "input_content":
+     "type": "t2v"
+     "file_url_list":
+       - "https://example.com/image.jpg"
+       - "file2.png"
+     "text": "测试生成t2v-1"
+     expected_status_code: 200
+#
+## 2正例 t2i
+#-  "model_name": "yy-seaweed-241128"
+#   "model_version": "111"
+#   "task_type": "t2i"
+#   "input_content":
+#     "type": "t2i"
+#     "file_url_list":
+#       - "https://example.com/image.jpg"
+#       - "file2.png"
+#     "text": "测试生成t2i-1"
+#
+## 3正例 i2v
+#-  "model_name": "yy-seaweed-241128"
+#   "model_version": "111"
+#   "task_type": "i2v"
+#   "input_content":
+#     "type": "i2v"
+#     "file_url_list":
+#       - "https://example.com/image.jpg"
+#       - "file2.png"
+#     "text": "测试生成i2v-1"
+#
+## 4反例 t2v 400 task_
+#-  "model_name": "yy-seaweed-241128"
+#   "model_version": ""
+#   "task_type": "t2t"
+#   "input_content":
+#     "type": "t2v"
+#     "file_url_list":
+#       - aaa.txt
+#       - "file2.png"
+#     "text": "测试生成t2v-1"
+#   expected_status_code: 400
+#
+## 反例 t2v 422
+#-  "model_name": "yy-seaweed-241128"
+#   "model_version": ""
+#   -"task_type": "t2v"
+#   "input_content":
+#     "type": "t2v"
+#     "file_url_list":
+#       - "https://example.com/image.jpg"
+#       - "file2.png"
+#     "text": "测试生成t2v-1"
+#   expected_status_code: 422

@@ -1,0 +1,8 @@
+test_cases:
+# 正例
+-  "deviceId": ${inter.context.get("device_id")[0]}
+
+# 反例
+-  "deviceId": ${inter.context.get("device_id")[0]}
+-  "deviceId": ${inter.context.get("device_id")[0]}
+-  "deviceId": ${inter.context.get("device_id")[0]}

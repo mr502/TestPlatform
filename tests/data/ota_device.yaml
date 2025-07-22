@@ -1,0 +1,15 @@
+test_cases:
+# 正例-测试地址testMacAddress
+-  "Device-Id": "testMacAddress"
+# 不存在但是真实的id
+-  "Device-Id": "SN0013c0630319dbb"
+# 不存在的id
+-  "Device-Id": "SN0013c0630319dpp"
+# id为111
+-  "Device-Id": "111"
+#  id为空字符串
+-  "Device-Id": ""
+# id为空
+-  "Device-Id":
+#    unbind = true  user_id是空
+-  "Device-Id": "SN00130eda013d4e8"
