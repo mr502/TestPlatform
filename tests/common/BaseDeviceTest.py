@@ -24,8 +24,6 @@ def _replace_context_vars(test_case, inter):
     return test_case
 
 
-
-
 class BaseDeviceTest:
     def __init__(self, yaml_file):
         self.yaml_util = YamlUtil(Path(__file__).parent.parent.parent/ "tests" / "data" / yaml_file)

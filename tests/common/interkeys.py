@@ -55,6 +55,7 @@ class Inter:
             else:
                 response = self.session.post(full_url, data=params,headers=self.default_headers)
                 logger.info(response.json())
+                self.logger.info(f"post请求成功: {full_url}")
             return response.json()
         except Exception as e:
             logger.error(f"Error in POST request to {full_url}: {e}")

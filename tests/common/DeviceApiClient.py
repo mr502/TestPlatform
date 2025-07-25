@@ -4,9 +4,9 @@ class DeviceApiClient:
     def device_register( inter, params):
         return inter.post("/device/register", params=params)
 
-    # @staticmethod
-    # def device_bound_macAddress(inter, params):
-    #     return inter.post("/device/bound/macAddress", params=params)
+    @staticmethod
+    def device_bound_macAddress(inter, params):
+        return inter.get(f"/device/bound/{params}")
 
     @staticmethod
     def device_list(inter,):

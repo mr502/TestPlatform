@@ -3,7 +3,7 @@ test_cases:
 # 位数  开头  数字  字母  特殊字符
 
 # 0 正确  17位且以SN开头 sn后面必须是3个数字
--  "macAddress": "sn012345678910001"
+-  "macAddress": "SN00198a316f9e670"
    "deviceType": "default"
    "expected_status_code": 0
 
@@ -31,7 +31,7 @@ test_cases:
     "expected_status_code": 10048
 
 # 6 正确  缺少deviceType字段
--  "macAddress": "sn987dierge876547"
+-  "macAddress": "SN00198a316f9e671"
    "expected_status_code": 0
 
 

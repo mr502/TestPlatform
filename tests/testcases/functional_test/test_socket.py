@@ -1,7 +1,7 @@
 from pathlib import Path
 
 import pytest
-from zope.interface import interfacemethod
+# from zope.interface import interfacemethod
 
 from tests.common.BaseDeviceTest import BaseDeviceTest
 from tests.common.interkeys_with_ut import InterWithUT
@@ -9,7 +9,7 @@ from tests.common.yaml_util import YamlUtil
 from tests.testcases.functional_test.conftest import inter_socket
 
 
-class TestSocket:
+class T1estSocket:
 
     test_cases = BaseDeviceTest("socket_validate.yaml").test_cases
     @pytest.mark.parametrize("test_case", test_cases)

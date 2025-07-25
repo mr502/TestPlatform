@@ -1,9 +1,10 @@
+from symbol import parameters
+
 import pytest
 from tests.common.BaseDeviceTest import BaseDeviceTest, _replace_context_vars
 from tests.common.DeviceApiClient import DeviceApiClient
 
 @pytest.mark.usefixtures("inter")
-
 @pytest.mark.order(1)
 class TestDeviceRegister:
     test_cases = BaseDeviceTest("device_register.yaml").test_cases
@@ -11,6 +12,11 @@ class TestDeviceRegister:
     def test_device_register(self, inter,test_case):
         response = DeviceApiClient.device_register(inter ,test_case)
         DeviceApiClient.assert_response(response,test_case.get("expected_status_code"))
+
+class TestDeviceBound :
+    def test_device_bound(self, inter):
+        response = DeviceApiClient.device_bound_macAddress(inter,"SN00198a316f9e670")
+        DeviceApiClient.log_response(response)
 
 @pytest.mark.order(2)
 class TestDeviceList:
@@ -21,7 +27,7 @@ class TestDeviceList:
         print(inter.context)
         print(response)
 
-@pytest.mark.skip
+@pytest.mark.skip(reason = "解绑后不利于后续测试")
 @pytest.mark.order(3)
 class TestDeviceUnbind:
     test_cases = BaseDeviceTest("device_unbind.yaml").test_cases

@@ -4,7 +4,7 @@ import pytest
 from tests.common.yaml_util import YamlUtil
 from tests.testcases.functional_test.conftest import inter_ota
 
-class TestOta:
+class T1estOta:
     yaml_util = YamlUtil(Path(__file__).parent.parent.parent / "data" / "ota_locate.yaml")
     test_cases_ota_locate = yaml_util.load_test_cases()
 

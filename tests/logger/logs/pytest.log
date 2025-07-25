@@ -1248,3 +1248,207 @@
 2025-06-19 11:40:23,995 - INFO - post请求成功: http://101.126.145.3:8002/lumi/device/register
 2025-06-19 11:40:24,055 - INFO - {'code': 0, 'msg': 'success', 'data': None}
 2025-06-19 11:40:24,055 - INFO - post请求成功: http://101.126.145.3:8002/lumi/device/register
+2025-07-23 20:21:25,978 - INFO - {'code': 10048, 'msg': 'MAC地址无效', 'data': None}
+2025-07-23 20:21:25,979 - INFO - post请求成功: https://api.namyvera.cn/namy/device/register
+2025-07-23 20:21:26,054 - INFO - {'code': 10048, 'msg': 'MAC地址无效', 'data': None}
+2025-07-23 20:21:26,054 - INFO - post请求成功: https://api.namyvera.cn/namy/device/register
+2025-07-23 20:21:26,105 - INFO - {'code': 10048, 'msg': 'MAC地址无效', 'data': None}
+2025-07-23 20:21:26,105 - INFO - post请求成功: https://api.namyvera.cn/namy/device/register
+2025-07-23 20:21:26,157 - INFO - {'code': 10048, 'msg': 'MAC地址无效', 'data': None}
+2025-07-23 20:21:26,157 - INFO - post请求成功: https://api.namyvera.cn/namy/device/register
+2025-07-23 20:21:26,207 - INFO - {'code': 10048, 'msg': 'MAC地址无效', 'data': None}
+2025-07-23 20:21:26,208 - INFO - post请求成功: https://api.namyvera.cn/namy/device/register
+2025-07-23 20:21:26,259 - INFO - {'code': 10048, 'msg': 'MAC地址无效', 'data': None}
+2025-07-23 20:21:26,259 - INFO - post请求成功: https://api.namyvera.cn/namy/device/register
+2025-07-23 20:21:26,310 - INFO - {'code': 10048, 'msg': 'MAC地址无效', 'data': None}
+2025-07-23 20:21:26,310 - INFO - post请求成功: https://api.namyvera.cn/namy/device/register
+2025-07-23 20:24:57,536 - INFO - {'code': 10048, 'msg': 'MAC地址无效', 'data': None}
+2025-07-23 20:24:57,537 - INFO - post请求成功: https://api.namyvera.cn/namy/device/register
+2025-07-23 20:24:57,605 - INFO - {'code': 10048, 'msg': 'MAC地址无效', 'data': None}
+2025-07-23 20:24:57,605 - INFO - post请求成功: https://api.namyvera.cn/namy/device/register
+2025-07-23 20:24:57,653 - INFO - {'code': 10048, 'msg': 'MAC地址无效', 'data': None}
+2025-07-23 20:24:57,653 - INFO - post请求成功: https://api.namyvera.cn/namy/device/register
+2025-07-23 20:24:57,701 - INFO - {'code': 10048, 'msg': 'MAC地址无效', 'data': None}
+2025-07-23 20:24:57,701 - INFO - post请求成功: https://api.namyvera.cn/namy/device/register
+2025-07-23 20:24:57,750 - INFO - {'code': 10048, 'msg': 'MAC地址无效', 'data': None}
+2025-07-23 20:24:57,750 - INFO - post请求成功: https://api.namyvera.cn/namy/device/register
+2025-07-23 20:24:57,798 - INFO - {'code': 10048, 'msg': 'MAC地址无效', 'data': None}
+2025-07-23 20:24:57,798 - INFO - post请求成功: https://api.namyvera.cn/namy/device/register
+2025-07-23 20:24:57,845 - INFO - {'code': 10048, 'msg': 'MAC地址无效', 'data': None}
+2025-07-23 20:24:57,845 - INFO - post请求成功: https://api.namyvera.cn/namy/device/register
+2025-07-23 20:28:11,824 - INFO - {'code': 401, 'msg': 'token is invalid, please log in again', 'data': None}
+2025-07-23 20:28:11,824 - INFO - post请求成功: https://api.namyvera.cn/namy/device/register
+2025-07-23 20:28:11,886 - INFO - {'code': 401, 'msg': 'token is invalid, please log in again', 'data': None}
+2025-07-23 20:28:11,886 - INFO - post请求成功: https://api.namyvera.cn/namy/device/register
+2025-07-23 20:28:11,931 - INFO - {'code': 401, 'msg': 'token is invalid, please log in again', 'data': None}
+2025-07-23 20:28:11,932 - INFO - post请求成功: https://api.namyvera.cn/namy/device/register
+2025-07-23 20:28:11,980 - INFO - {'code': 401, 'msg': 'token is invalid, please log in again', 'data': None}
+2025-07-23 20:28:11,983 - INFO - post请求成功: https://api.namyvera.cn/namy/device/register
+2025-07-23 20:28:12,028 - INFO - {'code': 401, 'msg': 'token is invalid, please log in again', 'data': None}
+2025-07-23 20:28:12,028 - INFO - post请求成功: https://api.namyvera.cn/namy/device/register
+2025-07-23 20:28:12,073 - INFO - {'code': 401, 'msg': 'token is invalid, please log in again', 'data': None}
+2025-07-23 20:28:12,073 - INFO - post请求成功: https://api.namyvera.cn/namy/device/register
+2025-07-23 20:28:12,119 - INFO - {'code': 401, 'msg': 'token is invalid, please log in again', 'data': None}
+2025-07-23 20:28:12,119 - INFO - post请求成功: https://api.namyvera.cn/namy/device/register
+2025-07-23 20:28:39,733 - INFO - {'code': 401, 'msg': 'token is invalid, please log in again', 'data': None}
+2025-07-23 20:28:39,733 - INFO - post请求成功: https://api.namyvera.cn/namy/device/register
+2025-07-23 20:28:39,795 - INFO - {'code': 401, 'msg': 'token is invalid, please log in again', 'data': None}
+2025-07-23 20:28:39,795 - INFO - post请求成功: https://api.namyvera.cn/namy/device/register
+2025-07-23 20:28:39,842 - INFO - {'code': 401, 'msg': 'token is invalid, please log in again', 'data': None}
+2025-07-23 20:28:39,842 - INFO - post请求成功: https://api.namyvera.cn/namy/device/register
+2025-07-23 20:28:39,891 - INFO - {'code': 401, 'msg': 'token is invalid, please log in again', 'data': None}
+2025-07-23 20:28:39,891 - INFO - post请求成功: https://api.namyvera.cn/namy/device/register
+2025-07-23 20:28:39,940 - INFO - {'code': 401, 'msg': 'token is invalid, please log in again', 'data': None}
+2025-07-23 20:28:39,940 - INFO - post请求成功: https://api.namyvera.cn/namy/device/register
+2025-07-23 20:28:39,989 - INFO - {'code': 401, 'msg': 'token is invalid, please log in again', 'data': None}
+2025-07-23 20:28:39,989 - INFO - post请求成功: https://api.namyvera.cn/namy/device/register
+2025-07-23 20:28:40,043 - INFO - {'code': 401, 'msg': 'token is invalid, please log in again', 'data': None}
+2025-07-23 20:28:40,043 - INFO - post请求成功: https://api.namyvera.cn/namy/device/register
+2025-07-23 20:29:08,649 - INFO - {'code': 0, 'msg': 'success', 'data': None}
+2025-07-23 20:29:08,649 - INFO - post请求成功: https://api.namyvera.cn/namy/device/register
+2025-07-23 20:29:08,697 - INFO - {'code': 10048, 'msg': 'MAC地址无效', 'data': None}
+2025-07-23 20:29:08,697 - INFO - post请求成功: https://api.namyvera.cn/namy/device/register
+2025-07-23 20:29:08,744 - INFO - {'code': 10048, 'msg': 'MAC地址无效', 'data': None}
+2025-07-23 20:29:08,744 - INFO - post请求成功: https://api.namyvera.cn/namy/device/register
+2025-07-23 20:29:08,791 - INFO - {'code': 10048, 'msg': 'MAC地址无效', 'data': None}
+2025-07-23 20:29:08,791 - INFO - post请求成功: https://api.namyvera.cn/namy/device/register
+2025-07-23 20:29:08,838 - INFO - {'code': 10048, 'msg': 'MAC地址无效', 'data': None}
+2025-07-23 20:29:08,838 - INFO - post请求成功: https://api.namyvera.cn/namy/device/register
+2025-07-23 20:29:08,885 - INFO - {'code': 10048, 'msg': 'MAC地址无效', 'data': None}
+2025-07-23 20:29:08,886 - INFO - post请求成功: https://api.namyvera.cn/namy/device/register
+2025-07-23 20:29:08,932 - INFO - {'code': 10048, 'msg': 'MAC地址无效', 'data': None}
+2025-07-23 20:29:08,932 - INFO - post请求成功: https://api.namyvera.cn/namy/device/register
+2025-07-23 20:29:40,476 - INFO - {'code': 0, 'msg': 'success', 'data': None}
+2025-07-23 20:29:40,477 - INFO - post请求成功: https://api.namyvera.cn/namy/device/register
+2025-07-23 20:29:40,524 - INFO - {'code': 10048, 'msg': 'MAC地址无效', 'data': None}
+2025-07-23 20:29:40,524 - INFO - post请求成功: https://api.namyvera.cn/namy/device/register
+2025-07-23 20:29:40,572 - INFO - {'code': 10048, 'msg': 'MAC地址无效', 'data': None}
+2025-07-23 20:29:40,572 - INFO - post请求成功: https://api.namyvera.cn/namy/device/register
+2025-07-23 20:29:40,619 - INFO - {'code': 10048, 'msg': 'MAC地址无效', 'data': None}
+2025-07-23 20:29:40,620 - INFO - post请求成功: https://api.namyvera.cn/namy/device/register
+2025-07-23 20:29:40,667 - INFO - {'code': 10048, 'msg': 'MAC地址无效', 'data': None}
+2025-07-23 20:29:40,667 - INFO - post请求成功: https://api.namyvera.cn/namy/device/register
+2025-07-23 20:29:40,715 - INFO - {'code': 10048, 'msg': 'MAC地址无效', 'data': None}
+2025-07-23 20:29:40,715 - INFO - post请求成功: https://api.namyvera.cn/namy/device/register
+2025-07-23 20:29:40,765 - INFO - {'code': 0, 'msg': 'success', 'data': None}
+2025-07-23 20:29:40,765 - INFO - post请求成功: https://api.namyvera.cn/namy/device/register
+2025-07-23 20:29:58,598 - INFO - {'code': 0, 'msg': 'success', 'data': None}
+2025-07-23 20:29:58,598 - INFO - post请求成功: https://api.namyvera.cn/namy/device/register
+2025-07-23 20:29:58,649 - INFO - {'code': 10048, 'msg': 'MAC地址无效', 'data': None}
+2025-07-23 20:29:58,649 - INFO - post请求成功: https://api.namyvera.cn/namy/device/register
+2025-07-23 20:29:58,699 - INFO - {'code': 10048, 'msg': 'MAC地址无效', 'data': None}
+2025-07-23 20:29:58,699 - INFO - post请求成功: https://api.namyvera.cn/namy/device/register
+2025-07-23 20:29:58,750 - INFO - {'code': 10048, 'msg': 'MAC地址无效', 'data': None}
+2025-07-23 20:29:58,750 - INFO - post请求成功: https://api.namyvera.cn/namy/device/register
+2025-07-23 20:29:58,800 - INFO - {'code': 10048, 'msg': 'MAC地址无效', 'data': None}
+2025-07-23 20:29:58,800 - INFO - post请求成功: https://api.namyvera.cn/namy/device/register
+2025-07-23 20:29:58,851 - INFO - {'code': 10048, 'msg': 'MAC地址无效', 'data': None}
+2025-07-23 20:29:58,851 - INFO - post请求成功: https://api.namyvera.cn/namy/device/register
+2025-07-23 20:29:58,901 - INFO - {'code': 10048, 'msg': 'MAC地址无效', 'data': None}
+2025-07-23 20:29:58,901 - INFO - post请求成功: https://api.namyvera.cn/namy/device/register
+2025-07-23 20:30:20,412 - INFO - {'code': 0, 'msg': 'success', 'data': None}
+2025-07-23 20:30:20,413 - INFO - post请求成功: https://api.namyvera.cn/namy/device/register
+2025-07-23 20:40:51,456 - ERROR - Error in POST request to https://api.namyvera.cn/namy"/device/bound/SN00198a316f9e670": Expecting value: line 1 column 1 (char 0)
+2025-07-23 20:43:21,399 - INFO - {'code': 500, 'msg': '服务器内部异常', 'data': None}
+2025-07-23 20:45:26,601 - INFO - {'code': 500, 'msg': '服务器内部异常', 'data': None}
+2025-07-23 20:45:26,602 - INFO - post请求成功: https://api.namyvera.cn/namy/device/bound/SN00198a316f9e670
+2025-07-23 20:46:08,429 - INFO - GET请求成功: https://api.namyvera.cn/namy/device/bound/SN00198a316f9e670
+2025-07-23 21:15:42,337 - INFO - {'code': 0, 'msg': 'success', 'data': None}
+2025-07-23 21:15:42,337 - INFO - post请求成功: https://api.namyvera.cn/namy/device/register
+2025-07-23 21:15:42,383 - INFO - {'code': 10048, 'msg': 'MAC地址无效', 'data': None}
+2025-07-23 21:15:42,383 - INFO - post请求成功: https://api.namyvera.cn/namy/device/register
+2025-07-23 21:15:42,429 - INFO - {'code': 10048, 'msg': 'MAC地址无效', 'data': None}
+2025-07-23 21:15:42,429 - INFO - post请求成功: https://api.namyvera.cn/namy/device/register
+2025-07-23 21:15:42,475 - INFO - {'code': 10048, 'msg': 'MAC地址无效', 'data': None}
+2025-07-23 21:15:42,475 - INFO - post请求成功: https://api.namyvera.cn/namy/device/register
+2025-07-23 21:15:42,521 - INFO - {'code': 10048, 'msg': 'MAC地址无效', 'data': None}
+2025-07-23 21:15:42,522 - INFO - post请求成功: https://api.namyvera.cn/namy/device/register
+2025-07-23 21:15:42,568 - INFO - {'code': 10048, 'msg': 'MAC地址无效', 'data': None}
+2025-07-23 21:15:42,568 - INFO - post请求成功: https://api.namyvera.cn/namy/device/register
+2025-07-23 21:15:42,619 - INFO - {'code': 0, 'msg': 'success', 'data': None}
+2025-07-23 21:15:42,619 - INFO - post请求成功: https://api.namyvera.cn/namy/device/register
+2025-07-23 21:15:42,767 - INFO - {'code': 0, 'msg': 'success', 'data': None}
+2025-07-23 21:15:42,767 - INFO - post请求成功: https://api.namyvera.cn/namy/device/register
+2025-07-23 21:15:42,813 - INFO - {'code': 10048, 'msg': 'MAC地址无效', 'data': None}
+2025-07-23 21:15:42,814 - INFO - post请求成功: https://api.namyvera.cn/namy/device/register
+2025-07-23 21:15:42,860 - INFO - {'code': 10048, 'msg': 'MAC地址无效', 'data': None}
+2025-07-23 21:15:42,860 - INFO - post请求成功: https://api.namyvera.cn/namy/device/register
+2025-07-23 21:15:42,907 - INFO - {'code': 10048, 'msg': 'MAC地址无效', 'data': None}
+2025-07-23 21:15:42,907 - INFO - post请求成功: https://api.namyvera.cn/namy/device/register
+2025-07-23 21:15:42,960 - INFO - {'code': 10048, 'msg': 'MAC地址无效', 'data': None}
+2025-07-23 21:15:42,960 - INFO - post请求成功: https://api.namyvera.cn/namy/device/register
+2025-07-23 21:15:43,017 - INFO - {'code': 10048, 'msg': 'MAC地址无效', 'data': None}
+2025-07-23 21:15:43,018 - INFO - post请求成功: https://api.namyvera.cn/namy/device/register
+2025-07-23 21:15:43,076 - INFO - {'code': 0, 'msg': 'success', 'data': None}
+2025-07-23 21:15:43,077 - INFO - post请求成功: https://api.namyvera.cn/namy/device/register
+2025-07-23 21:15:43,256 - INFO - GET请求成功: https://api.namyvera.cn/namy/device/bind/list
+2025-07-23 21:15:43,429 - INFO - GET请求成功: https://api.namyvera.cn/namy/device/bind/list
+2025-07-23 21:15:43,645 - INFO - GET请求成功: https://api.namyvera.cn/namy/device/${inter.context.get("device_id")}
+2025-07-23 21:15:43,815 - INFO - GET请求成功: https://api.namyvera.cn/namy/device/bound/SN00198a316f9e670
+2025-07-23 21:15:43,873 - INFO - GET请求成功: https://api.namyvera.cn/namy/chat-history/device/?page=10&limit=10
+2025-07-23 21:15:43,922 - INFO - GET请求成功: https://api.namyvera.cn/namy/content-collection/role/
+2025-07-23 21:15:43,971 - INFO - GET请求成功: https://api.namyvera.cn/namy/content/collection/?page=1&limit=10&keywords=?
+2025-07-23 21:15:44,022 - INFO - PUT请求成功: https://api.namyvera.cn/namy/device/alias/
+2025-07-23 21:15:44,081 - INFO - PUT请求成功: https://api.namyvera.cn/namy/user/nickname
+2025-07-23 21:15:44,179 - INFO - PUT请求成功: https://api.namyvera.cn/namy/user/avatar
+2025-07-24 12:01:06,103 - INFO - {'code': 0, 'msg': 'success', 'data': None}
+2025-07-24 12:01:06,104 - INFO - post请求成功: https://api.namyvera.cn/namy/device/register
+2025-07-24 12:01:06,151 - INFO - {'code': 10048, 'msg': 'MAC地址无效', 'data': None}
+2025-07-24 12:01:06,151 - INFO - post请求成功: https://api.namyvera.cn/namy/device/register
+2025-07-24 12:01:06,198 - INFO - {'code': 10048, 'msg': 'MAC地址无效', 'data': None}
+2025-07-24 12:01:06,198 - INFO - post请求成功: https://api.namyvera.cn/namy/device/register
+2025-07-24 12:01:06,245 - INFO - {'code': 10048, 'msg': 'MAC地址无效', 'data': None}
+2025-07-24 12:01:06,245 - INFO - post请求成功: https://api.namyvera.cn/namy/device/register
+2025-07-24 12:01:06,292 - INFO - {'code': 10048, 'msg': 'MAC地址无效', 'data': None}
+2025-07-24 12:01:06,292 - INFO - post请求成功: https://api.namyvera.cn/namy/device/register
+2025-07-24 12:01:06,338 - INFO - {'code': 10048, 'msg': 'MAC地址无效', 'data': None}
+2025-07-24 12:01:06,338 - INFO - post请求成功: https://api.namyvera.cn/namy/device/register
+2025-07-24 12:01:06,386 - INFO - {'code': 0, 'msg': 'success', 'data': None}
+2025-07-24 12:01:06,386 - INFO - post请求成功: https://api.namyvera.cn/namy/device/register
+2025-07-24 12:01:06,520 - INFO - {'code': 0, 'msg': 'success', 'data': None}
+2025-07-24 12:01:06,520 - INFO - post请求成功: https://api.namyvera.cn/namy/device/register
+2025-07-24 12:01:06,564 - INFO - {'code': 10048, 'msg': 'MAC地址无效', 'data': None}
+2025-07-24 12:01:06,564 - INFO - post请求成功: https://api.namyvera.cn/namy/device/register
+2025-07-24 12:01:06,609 - INFO - {'code': 10048, 'msg': 'MAC地址无效', 'data': None}
+2025-07-24 12:01:06,609 - INFO - post请求成功: https://api.namyvera.cn/namy/device/register
+2025-07-24 12:01:06,657 - INFO - {'code': 10048, 'msg': 'MAC地址无效', 'data': None}
+2025-07-24 12:01:06,658 - INFO - post请求成功: https://api.namyvera.cn/namy/device/register
+2025-07-24 12:01:06,705 - INFO - {'code': 10048, 'msg': 'MAC地址无效', 'data': None}
+2025-07-24 12:01:06,705 - INFO - post请求成功: https://api.namyvera.cn/namy/device/register
+2025-07-24 12:01:06,750 - INFO - {'code': 10048, 'msg': 'MAC地址无效', 'data': None}
+2025-07-24 12:01:06,751 - INFO - post请求成功: https://api.namyvera.cn/namy/device/register
+2025-07-24 12:01:06,797 - INFO - {'code': 0, 'msg': 'success', 'data': None}
+2025-07-24 12:01:06,797 - INFO - post请求成功: https://api.namyvera.cn/namy/device/register
+2025-07-24 12:01:06,942 - INFO - GET请求成功: https://api.namyvera.cn/namy/device/bind/list
+2025-07-24 12:01:07,082 - INFO - GET请求成功: https://api.namyvera.cn/namy/device/bind/list
+2025-07-24 12:01:07,252 - INFO - GET请求成功: https://api.namyvera.cn/namy/device/${inter.context.get("device_id")}
+2025-07-24 12:01:07,398 - INFO - GET请求成功: https://api.namyvera.cn/namy/device/bound/SN00198a316f9e670
+2025-07-24 12:01:07,445 - INFO - GET请求成功: https://api.namyvera.cn/namy/chat-history/device/?page=10&limit=10
+2025-07-24 12:01:07,492 - INFO - GET请求成功: https://api.namyvera.cn/namy/content-collection/role/
+2025-07-24 12:01:07,537 - INFO - GET请求成功: https://api.namyvera.cn/namy/content/collection/?page=1&limit=10&keywords=?
+2025-07-24 12:01:07,582 - INFO - PUT请求成功: https://api.namyvera.cn/namy/device/alias/
+2025-07-24 12:01:07,629 - INFO - PUT请求成功: https://api.namyvera.cn/namy/user/nickname
+2025-07-24 12:01:07,672 - INFO - PUT请求成功: https://api.namyvera.cn/namy/user/avatar
+2025-07-24 12:07:03,913 - INFO - {'code': 0, 'msg': 'success', 'data': None}
+2025-07-24 12:07:03,913 - INFO - post请求成功: https://api.namyvera.cn/namy/device/register
+2025-07-24 12:07:03,956 - INFO - {'code': 10048, 'msg': 'MAC地址无效', 'data': None}
+2025-07-24 12:07:03,957 - INFO - post请求成功: https://api.namyvera.cn/namy/device/register
+2025-07-24 12:07:04,000 - INFO - {'code': 10048, 'msg': 'MAC地址无效', 'data': None}
+2025-07-24 12:07:04,000 - INFO - post请求成功: https://api.namyvera.cn/namy/device/register
+2025-07-24 12:07:04,043 - INFO - {'code': 10048, 'msg': 'MAC地址无效', 'data': None}
+2025-07-24 12:07:04,043 - INFO - post请求成功: https://api.namyvera.cn/namy/device/register
+2025-07-24 12:07:04,090 - INFO - {'code': 10048, 'msg': 'MAC地址无效', 'data': None}
+2025-07-24 12:07:04,090 - INFO - post请求成功: https://api.namyvera.cn/namy/device/register
+2025-07-24 12:07:04,134 - INFO - {'code': 10048, 'msg': 'MAC地址无效', 'data': None}
+2025-07-24 12:07:04,134 - INFO - post请求成功: https://api.namyvera.cn/namy/device/register
+2025-07-24 12:07:04,179 - INFO - {'code': 0, 'msg': 'success', 'data': None}
+2025-07-24 12:07:04,179 - INFO - post请求成功: https://api.namyvera.cn/namy/device/register
+2025-07-24 12:07:04,224 - INFO - GET请求成功: https://api.namyvera.cn/namy/device/bind/list
+2025-07-24 12:07:04,274 - INFO - GET请求成功: https://api.namyvera.cn/namy/device/0d140cf8b5c63db2b845b142abe18e34
+2025-07-24 12:07:04,433 - INFO - GET请求成功: https://api.namyvera.cn/namy/device/bound/SN00198a316f9e670
+2025-07-24 12:07:04,481 - INFO - GET请求成功: https://api.namyvera.cn/namy/chat-history/device/?page=10&limit=10
+2025-07-24 12:07:04,525 - INFO - GET请求成功: https://api.namyvera.cn/namy/content-collection/role/
+2025-07-24 12:07:04,569 - INFO - GET请求成功: https://api.namyvera.cn/namy/content/collection/?page=1&limit=10&keywords=?
+2025-07-24 12:07:04,614 - INFO - PUT请求成功: https://api.namyvera.cn/namy/device/alias/
+2025-07-24 12:07:04,658 - INFO - PUT请求成功: https://api.namyvera.cn/namy/user/nickname
+2025-07-24 12:07:04,700 - INFO - PUT请求成功: https://api.namyvera.cn/namy/user/avatar

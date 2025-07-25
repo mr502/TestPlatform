@@ -23,7 +23,7 @@ from tests.logger.logger import Logger
 #     logger.info("用例执行后")  # 后置代码 用例执行后
 @pytest.fixture(scope="module")
 def inter():
-    return Inter("http://47.108.207.38:8002/lumi","")
+    return Inter("https://api.namyvera.cn/namy","4591d19df9682e9ae06529039e43c9f6")
 @pytest.fixture(scope="module")
 def inter_ota():
     return InterWithUT("http://36.189.234.237:29305/lumi", "")
