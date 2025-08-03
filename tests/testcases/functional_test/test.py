@@ -1,6 +1,6 @@
 from tests.common.interkeys import Inter
 
-inter = Inter()
+inter = Inter("","")
 def test_device_unbind():
 
     response = inter.post(url="/device/unbind", params={"deviceId": "SN000mengrui"})
@@ -12,5 +12,6 @@ def test_device_unbind():
 
 def test_device_role():
     response = inter.get("/device/bcd9a5d0bf522e338818031bfb9356a1")
+    print(response.json())
     print(response.json())
 
