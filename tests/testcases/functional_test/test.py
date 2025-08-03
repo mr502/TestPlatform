@@ -14,4 +14,5 @@ def test_device_role():
     response = inter.get("/device/bcd9a5d0bf522e338818031bfb9356a1")
     print(response.json())
     print(response.json())
+    print(response.json())
 
