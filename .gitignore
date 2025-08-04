@@ -1,7 +1,7 @@
 .venv
 *logger
- tests/.DS_Store
- tests/__pycache__/
+tests/.DS_Store
+tests/__pycache__/
 tests/common/.DS_Store
 tests/common/__pycache__/
 tests/testcases/__pycache__/
