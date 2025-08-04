@@ -24,4 +24,5 @@ tests/testcases/functional_test/__pycache__/test_task_submit.cpython-310-pytest-
 tests/testcases/functional_test/__pycache__/test_task_submit.cpython-310-pytest-8.4.0.pyc
 tests/testcases/functional_test/__pycache__/test_task_terminate.cpython-310-pytest-8.3.5.pyc
 tests/testcases/functional_test/__pycache__/test_task_terminate.cpython-310-pytest-8.4.0.pyc
-
+__pycache__/
+*.pyc
