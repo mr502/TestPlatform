@@ -1,10 +1,7 @@
 .venv
 *logger
 tests/.DS_Store
-tests/__pycache__/
 tests/common/.DS_Store
-tests/common/__pycache__/
-tests/testcases/__pycache__/
 /functional_test/__pycache__/test_task_terminate.cpython-310-pytest-8.4.0.pyc
 __pycache__/
 *.pyc
